@@ -11,7 +11,7 @@ tap.test('base64DecoderTest', function(test) {
     actual += String.fromCharCode(b);
   }
 
-  test.isEqual(actual, 'Hello World');
+  test.equal(actual, 'Hello World');
   
   test.end()
 });
