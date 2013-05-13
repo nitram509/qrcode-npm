@@ -18,5 +18,11 @@
     "tap": ""
   },
   "author": "Carlos Manzanares <carlos.manzanares@gmail.com>",
+  "contributors": [
+      {
+          "name" : "Martin W. Kirst",
+          "url": "https://github.com/nitram509"
+      }
+  ],
   "license": "MIT"
 }
